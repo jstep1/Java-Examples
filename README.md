@@ -1,2 +1,2 @@
 # Java-Examples
-A compilation of coursework using Java
+This repository contains several samples of coursework projects utilizing Java. Please see the source code for details.
