@@ -1,0 +1,37 @@
+
+ ----jGRASP exec: java Problem1
+Enter x: 5
+Enter y: 3
+Enter z: 4
+Largest number: 5
+Middle number: 4
+Smallest number: 3
+
+Triangle
+Also, it's a right triangle
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem1
+Enter x: 5
+Enter y: 7
+Enter z: 3
+Largest number: 7
+Middle number: 5
+Smallest number: 3
+
+Triangle
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem1
+Enter x: 6
+Enter y: 4
+Enter z: 13
+Largest number: 13
+Middle number: 6
+Smallest number: 4
+
+Can't construct a triangle
+
+ ----jGRASP: operation complete.

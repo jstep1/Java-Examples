@@ -1,0 +1,23 @@
+ ----jGRASP exec: java Problem4
+Enter integer n: 24
+
+The sum of all digits of 24 is: 6
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem4
+Enter integer n: 1305
+
+The sum of all digits of 1305 is: 9
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem4
+Enter integer n: -24
+
+The sum of all digits of -24 is: 6
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem4
+Enter integer n: 10374
+
+The sum of all digits of 10374 is: 15
+ ----jGRASP: operation complete.

@@ -1,0 +1,20 @@
+ ----jGRASP exec: java Problem3
+Employee Name: John Smith
+Enter hours worked: 39.5
+Enter pay rate: 10.4
+
+John Smith
+Regular Pay: 410.8
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem3
+Employee Name: Michelle Adams
+Enter hours worked: 43.5
+Enter pay rate: 10.2
+
+Michelle Adams
+Regular pay: 408.0
+Overtime pay: 53.55
+Total pay: 461.55
+
+ ----jGRASP: operation complete.

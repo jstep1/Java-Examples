@@ -1,0 +1,9 @@
+
+ ----jGRASP exec: java Problem3
+Before shifting: 
+2 3 9 17 32 40 73 40 21 10  
+ 
+After shifting: 
+3 9 17 32 40 73 40 21 10 2
+
+ ----jGRASP: operation complete.

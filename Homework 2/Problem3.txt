@@ -1,0 +1,14 @@
+ ----jGRASP exec: java Problem3
+Enter an integer: 23
+Number between 20 and 45? true
+
+Enter an integer: 46
+Number between 20 and 45? false
+
+Both numbers between 20 and 45? false
+
+At least one number between 20 and 45? true
+
+Only one number between 20 and 45? true
+
+ ----jGRASP: operation complete.

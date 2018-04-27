@@ -1,0 +1,29 @@
+
+ ----jGRASP exec: java Problem4
+Enter integer n greater than 10: 10
+Enter integer n greater than 10: 9
+Enter integer n greater than 10: 13
+
+Before swap:
+68 4 41 40 44 44 33 49 19 37 42 22 50 
+Sum of elements at indexes 2, 5, 7 and 9 is: 171
+
+After swap: 
+68 4 33 40 49 44 41 44 19 37 42 22 50 
+Sum of elements at indexes 2, 5, 7 and 9 is: 158
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem4
+Enter integer n greater than 10: 2
+Enter integer n greater than 10: 14
+
+Before swap:
+16 18 43 57 66 70 10 17 23 41 60 27 29 55 
+Sum of elements at indexes 2, 5, 7 and 9 is: 171
+
+After swap: 
+16 18 10 57 17 70 43 66 23 41 60 27 29 55 
+Sum of elements at indexes 2, 5, 7 and 9 is: 187
+
+ ----jGRASP: operation complete.

@@ -1,0 +1,26 @@
+ ----jGRASP exec: java Problem3
+Enter an integer: 23
+Enter an integer: 1
+Enter an integer: -2
+Enter an integer: 19
+Enter an integer: -25
+Enter an integer: 4
+Enter an integer: 9
+Enter an integer: -20
+Enter an integer: -5
+Enter an integer: -12
+-8
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem3
+Enter an integer: 22
+Enter an integer: -9
+Enter an integer: 13
+Enter an integer: 4
+Enter an integer: 9
+Enter an integer: -5
+Enter an integer: 18
+52
+
+ ----jGRASP: operation complete.

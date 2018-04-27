@@ -1,0 +1,39 @@
+
+ ----jGRASP exec: java Problem1
+Enter an integer n, greater than 0: -1
+Enter an integer n, greater than 0: 8
+Array on one line:
+321 332 91 357 331 189 45 362 
+Maximum: 362
+Minimum: 45
+Sum: 2028
+Average: 253.5
+Number of integers greater than average: 5
+Number of times subsequent value increases: 3
+Number of times subsequent value decreases: 4
+Array with 3 elements per line: 
+321 332 91
+357 331 189
+45 362 
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem1
+Enter an integer n, greater than 0: -5
+Enter an integer n, greater than 0: 0
+Enter an integer n, greater than 0: 14
+Array on one line:
+498 266 438 389 450 428 87 314 104 116 455 497 286 218 
+Maximum: 498
+Minimum: 87
+Sum: 4546
+Average: 324.7142857142857
+Number of integers greater than average: 7
+Number of times subsequent value increases: 6
+Number of times subsequent value decreases: 7
+Array with 3 elements per line: 
+498 266 438
+389 450 428
+87 314 104
+116 455 497
+286 218 
+ ----jGRASP: operation complete.

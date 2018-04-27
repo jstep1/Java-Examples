@@ -1,0 +1,35 @@
+ ----jGRASP exec: java Problem1
+I have a number between 1 and 100
+
+What is your guess: 38
+Go lower!
+What is your guess: 25
+Go higher!
+What is your guess: 29
+You got it!
+
+It took 3 guesses.
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem1
+I have a number between 1 and 100
+
+What is your guess: 50
+Go lower!
+What is your guess: 25
+Go higher!
+What is your guess: 35
+Go higher!
+What is your guess: 40
+Go higher!
+What is your guess: 45
+Go lower!
+What is your guess: 43
+Go higher!
+What is your guess: 44
+You got it!
+
+It took 7 guesses.
+
+ ----jGRASP: operation complete.

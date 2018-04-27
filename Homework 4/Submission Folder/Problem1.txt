@@ -1,0 +1,18 @@
+
+ ----jGRASP exec: java Problem1
+Enter an integer for lower: 5
+Enter another integer for upper (greater than lower): 7
+5
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem1
+Enter an integer for lower: 5
+Enter another integer for upper (greater than lower): 25
+17
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem1
+Enter an integer for lower: 1
+Enter another integer for upper (greater than lower): 100
+7
+ ----jGRASP: operation complete.

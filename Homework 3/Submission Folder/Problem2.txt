@@ -1,0 +1,27 @@
+ ----jGRASP exec: java Problem2
+Enter first integer: 24
+Enter second integer: 4
+
+24 is a multiple of 4
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem2
+Enter first integer: 15
+Enter second integer: 9
+
+15 is not a multiple of 9
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem2
+Enter first integer: 64
+Enter second integer: 8
+
+64 is a multiple of 8
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java Problem2
+Enter first integer: 100
+Enter second integer: 20
+
+100 is a multiple of 20
+ ----jGRASP: operation complete.

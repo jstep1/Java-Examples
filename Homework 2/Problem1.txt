@@ -1,0 +1,6 @@
+ ----jGRASP exec: java Problem1
+Enter the length: 5
+Enter the width: 3
+The perimeter is: 16
+The area is: 15
+ ----jGRASP: operation complete.
